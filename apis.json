@@ -1,0 +1,45 @@
+{
+    "name": "Dangerous Prototypes",
+    "description": "Dangerous Prototypes makes open source hardware.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28346-dangerous-prototypes.jpg",
+    "tags": [
+        "have api",
+        "internet of things",
+        "tech blog"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/dangerous-prototypes\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Dangerous Prototypes",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28346-dangerous-prototypes.jpg",
+            "humanURL": "http:\/\/dangerousprototypes.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/dangerous-prototypes-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/dangerous-prototypes-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/dangerousproto"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/dangerousprototypes.com"
+        }
+    ]
+}
